@@ -12,6 +12,10 @@
   text-align: right;
 }
 
+.main__header {
+  display: none;
+}
+
 .header__inner .header__image {
   width: 100%;
 }
